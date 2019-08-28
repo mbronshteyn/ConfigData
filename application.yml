@@ -1,0 +1,3 @@
+gateway.ip: 10.0.0.8
+token.expiration_time: 8640000 # 1 days
+token.secret: jiukjkjfidjfidf7878ufidufewewdifudif
